@@ -10,6 +10,7 @@ Six small tables of **real, measured** car shipping data from [Transportli](http
 - License: **CC BY 4.0**. Please credit **Transportli** and link to the `source_url` of the table you use (see Citation).
 - Site: <https://transportli.com/> · Price index: <https://transportli.com/auto-transport/price-index/> · Data license: <https://transportli.com/data-license/>
 - DOI (all versions, via Zenodo): <https://doi.org/10.5281/zenodo.24447430>
+- Same data on GitHub: <https://github.com/Transportlicom/us-car-shipping-prices> · Kaggle: <https://www.kaggle.com/datasets/transportli/us-car-shipping-prices-and-transit-times>
 
 ## Tables
 
@@ -69,4 +70,5 @@ Transportli is a marketplace that connects customers with independent, vetted ca
 
 ## Changelog
 
-- November 2026: first release (six tables). LTL freight data lives in the companion dataset.
+- November 2026: first release.
+- Updated monthly. Each GitHub release is archived on Zenodo with its own version DOI.
