@@ -10,7 +10,7 @@ Six small tables of **real, measured** car shipping data from [Transportli](http
 - License: **CC BY 4.0**. Please credit **Transportli** and link to the `source_url` of the table you use (see Citation).
 - Site: <https://transportli.com/> · Price index: <https://transportli.com/auto-transport/price-index/> · Data license: <https://transportli.com/data-license/>
 - DOI (all versions, via Zenodo): <https://doi.org/10.5281/zenodo.24447430>
-- Same data on GitHub: <https://github.com/Transportlicom/us-car-shipping-prices> · Kaggle: <https://www.kaggle.com/datasets/transportli/us-car-shipping-prices-and-transit-times>
+- Same data on GitHub: <https://github.com/Transportlicom/us-car-shipping-prices> · Kaggle: <https://www.kaggle.com/datasets/transportli/us-car-shipping-prices-and-transit-times> · Harvard Dataverse: <https://doi.org/10.7910/DVN/CJSAU3>
 
 ## Tables
 
