@@ -1,0 +1,52 @@
+state,state_name,census_region,active_brokers,population_2020,brokers_per_100k_residents,brokers_with_revocation_5y,revocation_5y_pct,revocation_5y_pct_ci_low,revocation_5y_pct_ci_high,median_authority_age_years,pct_authority_under_3_years,fmcsa_snapshot,source_url
+AK,Alaska,West,18,733391,2.45,3,16.7,5.8,39.2,12.5,16.7,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+AL,Alabama,South,330,5024279,6.57,102,30.9,26.2,36.1,6.6,26.5,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+AR,Arkansas,South,200,3011524,6.64,71,35.5,29.2,42.3,13.1,16.0,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+AZ,Arizona,West,457,7151502,6.39,177,38.7,34.4,43.3,6.2,27.6,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+CA,California,West,2688,39538223,6.8,1034,38.5,36.6,40.3,6.0,25.5,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+CO,Colorado,West,298,5773714,5.16,109,36.6,31.3,42.2,7.2,21.1,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+CT,Connecticut,Northeast,107,3605944,2.97,28,26.2,18.8,35.2,6.5,34.0,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+DC,District of Columbia,South,9,689545,1.31,1,11.1,2.0,43.5,1.6,66.7,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+DE,Delaware,South,106,989948,10.71,43,40.6,31.7,50.1,3.9,37.5,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+FL,Florida,South,2069,21538187,9.61,744,36.0,33.9,38.1,5.3,32.1,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+GA,Georgia,South,929,10711908,8.67,360,38.8,35.7,41.9,6.2,26.0,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+HI,Hawaii,West,8,1455271,0.55,1,12.5,2.2,47.1,4.7,25.0,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+IA,Iowa,Midwest,282,3190369,8.84,97,34.4,29.1,40.1,13.1,15.2,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+ID,Idaho,West,175,1839106,9.52,75,42.9,35.8,50.3,9.9,18.3,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+IL,Illinois,Midwest,1597,12812508,12.46,632,39.6,37.2,42.0,7.5,22.0,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+IN,Indiana,Midwest,574,6785528,8.46,219,38.2,34.3,42.2,9.3,20.4,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+KS,Kansas,Midwest,252,2937880,8.58,87,34.5,28.9,40.6,9.9,22.8,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+KY,Kentucky,South,204,4505836,4.53,67,32.8,26.8,39.6,7.6,25.1,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+LA,Louisiana,South,172,4657757,3.69,48,27.9,21.7,35.0,6.4,26.9,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+MA,Massachusetts,Northeast,220,7029917,3.13,81,36.8,30.7,43.4,9.5,20.1,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+MD,Maryland,South,265,6177224,4.29,93,35.1,29.6,41.0,5.0,34.0,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+ME,Maine,Northeast,53,1362359,3.89,15,28.3,18.0,41.6,16.4,9.4,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+MI,Michigan,Midwest,617,10077331,6.12,229,37.1,33.4,41.0,9.7,20.6,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+MN,Minnesota,Midwest,493,5706494,8.64,186,37.7,33.6,42.1,15.3,10.5,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+MO,Missouri,Midwest,511,6154913,8.3,189,37.0,32.9,41.3,10.6,18.9,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+MS,Mississippi,South,148,2961279,5.0,39,26.4,19.9,34.0,9.1,21.9,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+MT,Montana,West,103,1084225,9.5,28,27.2,19.5,36.5,12.9,19.4,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+NC,North Carolina,South,594,10439388,5.69,211,35.5,31.8,39.5,6.3,26.4,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+ND,North Dakota,Midwest,114,779094,14.63,46,40.4,31.8,49.5,13.6,12.4,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+NE,Nebraska,Midwest,245,1961504,12.49,101,41.2,35.2,47.5,13.2,12.3,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+NH,New Hampshire,Northeast,36,1377529,2.61,18,50.0,34.5,65.5,11.7,19.4,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+NJ,New Jersey,Northeast,750,9288994,8.07,255,34.0,30.7,37.5,6.6,26.4,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+NM,New Mexico,West,59,2117522,2.79,21,35.6,24.6,48.3,6.4,24.1,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+NV,Nevada,West,253,3104614,8.15,95,37.5,31.8,43.7,4.7,32.0,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+NY,New York,Northeast,787,20201249,3.9,301,38.2,34.9,41.7,6.1,27.1,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+OH,Ohio,Midwest,949,11799448,8.04,338,35.6,32.6,38.7,11.2,19.7,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+OK,Oklahoma,South,225,3959353,5.68,74,32.9,27.1,39.3,5.7,28.6,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+OR,Oregon,West,284,4237256,6.7,105,37.0,31.6,42.7,13.6,18.7,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+PA,Pennsylvania,Northeast,768,13002700,5.91,254,33.1,29.8,36.5,10.4,20.9,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+RI,Rhode Island,Northeast,29,1097379,2.64,10,34.5,19.9,52.7,8.5,33.3,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+SC,South Carolina,South,331,5118425,6.47,98,29.6,24.9,34.7,5.1,34.7,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+SD,South Dakota,Midwest,103,886667,11.62,32,31.1,22.9,40.6,14.3,15.5,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+TN,Tennessee,South,557,6910840,8.06,202,36.3,32.4,40.3,9.1,20.7,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+TX,Texas,South,3057,29145505,10.49,1099,36.0,34.3,37.7,5.2,30.0,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+UT,Utah,West,274,3271616,8.38,109,39.8,34.2,45.7,7.9,24.2,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+VA,Virginia,South,346,8631393,4.01,104,30.1,25.5,35.1,6.1,31.1,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+VT,Vermont,Northeast,15,643077,2.33,4,26.7,10.9,52.0,13.1,33.3,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+WA,Washington,West,499,7705281,6.48,184,36.9,32.8,41.2,7.1,23.9,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+WI,Wisconsin,Midwest,521,5893718,8.84,179,34.4,30.4,38.5,13.9,14.5,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+WV,West Virginia,South,28,1793716,1.56,10,35.7,20.7,54.2,5.5,21.4,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/
+WY,Wyoming,West,89,576851,15.43,29,32.6,23.7,42.9,4.0,39.1,2026-11-04,https://transportli.com/blog/freight-brokers-by-state/

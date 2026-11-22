@@ -1,0 +1,8 @@
+distance_band,miles_min,miles_max,corridors_n,median_gap_pct,share_gap_ge_10_pct,share_gap_ge_25_pct,share_gap_ge_50_pct,median_gap_usd,snapshot,source_url
+Under 250 miles,0,249,129,7.4,42.6,15.5,2.3,25,2026-11,https://transportli.com/blog/is-it-cheaper-to-ship-a-car-in-one-direction/
+250 to 500 miles,250,499,157,12.9,60.5,25.5,8.9,62,2026-11,https://transportli.com/blog/is-it-cheaper-to-ship-a-car-in-one-direction/
+"500 to 1,000 miles",500,999,228,16.0,64.9,31.1,3.9,117,2026-11,https://transportli.com/blog/is-it-cheaper-to-ship-a-car-in-one-direction/
+"1,000 to 1,500 miles",1000,1499,156,23.8,82.1,44.2,9.6,230,2026-11,https://transportli.com/blog/is-it-cheaper-to-ship-a-car-in-one-direction/
+"1,500 to 2,000 miles",1500,1999,51,19.3,72.5,27.5,0.0,223,2026-11,https://transportli.com/blog/is-it-cheaper-to-ship-a-car-in-one-direction/
+"2,000 miles or more",2000,,68,6.6,29.4,1.5,0.0,82,2026-11,https://transportli.com/blog/is-it-cheaper-to-ship-a-car-in-one-direction/
+All corridors,,,790,13.9,61.3,27.2,5.2,96,2026-11,https://transportli.com/blog/is-it-cheaper-to-ship-a-car-in-one-direction/

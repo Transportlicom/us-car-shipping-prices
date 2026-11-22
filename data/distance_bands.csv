@@ -1,0 +1,7 @@
+distance_band,miles_min,miles_max,lanes_n,sedan_median_usd,sedan_p10_usd,sedan_p90_usd,suv_median_usd,pickup_median_usd,van_median_usd,sedan_per_mile_median_usd,suv_vs_sedan_pct,pickup_vs_sedan_pct,van_vs_sedan_pct,snapshot,source_url
+Under 250 miles,0,249,282,293,153,455,298,354,384,2.06,1.7,21.0,30.9,2026-11,https://transportli.com/auto-transport/car-shipping-cost/
+250 to 500 miles,250,499,318,478,350,663,500,666,636,1.24,4.5,39.2,32.8,2026-11,https://transportli.com/auto-transport/car-shipping-cost/
+"500 to 1,000 miles",500,999,461,720,510,983,793,1100,1046,0.99,10.1,52.8,45.3,2026-11,https://transportli.com/auto-transport/car-shipping-cost/
+"1,000 to 1,500 miles",1000,1499,313,968,725,1254,1058,1528,1513,0.78,9.3,57.9,56.3,2026-11,https://transportli.com/auto-transport/car-shipping-cost/
+"1,500 to 2,000 miles",1500,1999,104,1112,961,1383,1231,2030,2020,0.65,10.8,82.7,81.7,2026-11,https://transportli.com/auto-transport/car-shipping-cost/
+"2,000 miles or more",2000,,137,1379,1183,1655,1502,2448,2593,0.56,8.9,77.5,88.0,2026-11,https://transportli.com/auto-transport/car-shipping-cost/

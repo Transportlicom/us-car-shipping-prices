@@ -1,0 +1,38 @@
+{
+ "title": "US Car Shipping Prices, Transit Times and Broker Data",
+ "upload_type": "dataset",
+ "description": "<p>Real car shipping quote statistics, price index, transit times and FMCSA broker counts by state (Transportli). CC BY 4.0.</p><p>Aggregate tables with a <code>source_url</code> column on every row that points to the Transportli page explaining the numbers. These are quotes and posted prices, not booked prices. Canonical source and method: <a href=\"https://transportli.com/auto-transport/price-index/\">https://transportli.com/auto-transport/price-index/</a>. Also on Hugging Face: <a href=\"https://huggingface.co/datasets/Transportli/us-car-shipping-prices\">Transportli/us-car-shipping-prices</a>.</p>",
+ "creators": [
+  {
+   "name": "Transportli",
+   "affiliation": "Transportli LLC"
+  }
+ ],
+ "license": "cc-by-4.0",
+ "access_right": "open",
+ "keywords": [
+  "car shipping",
+  "auto transport",
+  "vehicle shipping",
+  "prices",
+  "transit time",
+  "price index",
+  "FMCSA brokers",
+  "United States"
+ ],
+ "version": "2026.11",
+ "language": "eng",
+ "publication_date": "2026-11-22",
+ "related_identifiers": [
+  {
+   "identifier": "https://huggingface.co/datasets/Transportli/us-car-shipping-prices",
+   "relation": "isAlternateIdentifier",
+   "scheme": "url"
+  },
+  {
+   "identifier": "https://transportli.com/auto-transport/price-index/",
+   "relation": "isDocumentedBy",
+   "scheme": "url"
+  }
+ ]
+}

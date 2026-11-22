@@ -1,0 +1,11 @@
+group_type,group,orders_n,median_days,p25_days,p75_days,p90_days,pct_within_2_days,pct_within_3_days,snapshot,source_url
+distance_band,Under 250 miles,36,0.0,0,1,2,97,100,2026-11,https://transportli.com/auto-transport/how-long-does-it-take-to-ship-a-car/
+distance_band,250 to 500 miles,78,1.0,0,1,1,99,100,2026-11,https://transportli.com/auto-transport/how-long-does-it-take-to-ship-a-car/
+distance_band,"500 to 1,000 miles",94,1.0,1,2,2,94,97,2026-11,https://transportli.com/auto-transport/how-long-does-it-take-to-ship-a-car/
+distance_band,"1,000 to 1,500 miles",106,2.0,2,4,5,51,74,2026-11,https://transportli.com/auto-transport/how-long-does-it-take-to-ship-a-car/
+distance_band,"1,500 to 2,000 miles",30,3.0,2,4,8,27,63,2026-11,https://transportli.com/auto-transport/how-long-does-it-take-to-ship-a-car/
+distance_band,"2,000 miles or more",33,5,4,7,10,0,18,2026-11,https://transportli.com/auto-transport/how-long-does-it-take-to-ship-a-car/
+vehicle_type_500_to_1499_miles,sedan,81,2,,,,,,2026-11,https://transportli.com/auto-transport/how-long-does-it-take-to-ship-a-car/
+vehicle_type_500_to_1499_miles,suv,73,2,,,,,,2026-11,https://transportli.com/auto-transport/how-long-does-it-take-to-ship-a-car/
+vehicle_type_500_to_1499_miles,pickup,32,1.0,,,,,,2026-11,https://transportli.com/auto-transport/how-long-does-it-take-to-ship-a-car/
+vehicle_type_500_to_1499_miles,van,14,2.0,,,,,,2026-11,https://transportli.com/auto-transport/how-long-does-it-take-to-ship-a-car/
