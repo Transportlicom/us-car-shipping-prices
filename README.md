@@ -1,5 +1,7 @@
 # US car shipping prices, transit times and broker data (Transportli)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24447430.svg)](https://doi.org/10.5281/zenodo.24447430)
+
 > Also on Hugging Face: <https://huggingface.co/datasets/Transportli/us-car-shipping-prices>. Canonical source and explanations: <https://transportli.com/auto-transport/price-index/>. Releases of this repository are archived on Zenodo with a DOI.
 
 Six small tables of **real, measured** car shipping data from [Transportli](https://transportli.com/), a US marketplace that matches vehicle shipments with vetted carriers. Nothing here is a forecast (the one modelled table, `state_effects`, is fitted to measured prices): prices are quotes returned by our platform's pricing tool, transit times come from real delivered orders, and the broker table is public FMCSA data. Companion datasets: LTL (pallet) freight in [Transportli/us-ltl-freight-prices](https://huggingface.co/datasets/Transportli/us-ltl-freight-prices) and container drayage in [Transportli/us-container-drayage-rates](https://huggingface.co/datasets/Transportli/us-container-drayage-rates). Every row carries a `source_url` that points to the Transportli page that explains the numbers.
@@ -7,6 +9,7 @@ Six small tables of **real, measured** car shipping data from [Transportli](http
 - Snapshot: **November 2026** (the price index keeps growing weekly; the other tables are refreshed monthly)
 - License: **CC BY 4.0**. Please credit **Transportli** and link to the `source_url` of the table you use (see Citation).
 - Site: <https://transportli.com/> · Price index: <https://transportli.com/auto-transport/price-index/> · Data license: <https://transportli.com/data-license/>
+- DOI (all versions, via Zenodo): <https://doi.org/10.5281/zenodo.24447430>
 
 ## Tables
 
@@ -47,7 +50,7 @@ print(ds.to_pandas())
 
 ## Citation
 
-> Transportli, *Car Shipping Prices, Transit Times and Broker Data*, November 2026. <https://transportli.com/auto-transport/price-index/>
+> Transportli, *Car Shipping Prices, Transit Times and Broker Data*, November 2026. <https://transportli.com/auto-transport/price-index/> DOI: <https://doi.org/10.5281/zenodo.24447430>.
 
 ```bibtex
 @misc{transportli_car_shipping_data_2026_11,
@@ -55,6 +58,7 @@ print(ds.to_pandas())
   author = {Transportli},
   year   = {2026},
   url    = {https://transportli.com/auto-transport/price-index/},
+  doi    = {10.5281/zenodo.24447430},
   note   = {Snapshot November 2026. Hugging Face dataset Transportli/us-car-shipping-prices}
 }
 ```
